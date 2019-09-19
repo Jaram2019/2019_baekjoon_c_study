@@ -1,1 +1,1 @@
-# 2019_baekjoon_c_study
+# Jaram 2019-2
